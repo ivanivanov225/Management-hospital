@@ -174,24 +174,6 @@ This module allows admin to perform five major operations:
 
 ## Updates
 
-### 1. Cancel Appointments
-	
-   &nbsp; &nbsp; &nbsp; Patients and doctors can able to delete their appointments.
- 
-   ![image](https://user-images.githubusercontent.com/36665975/75169587-d0c72880-574e-11ea-9a9e-ba098c04e594.png)
-    
-  If the patient deletes the last record (for doctor Ganesh), then a label "deleted by you" will be displayed in the column 'Current Status' and the action will change to cancel state.
-  
-  ![image](https://user-images.githubusercontent.com/36665975/75169873-47642600-574f-11ea-8ca4-420b0dfd20c3.png)
-  
-  Now if we login to the doctor Ganesh's account and view his appointment details, then it will look like this:
-  
-  ![image](https://user-images.githubusercontent.com/36665975/75170076-9316cf80-574f-11ea-84ff-6a5976ce8179.png)
-  
-  Similarly doctors can also delete their appointments and patients can view their updated appointment details.
-  
-### 2. Remove Doctors by Admin
-
 &nbsp; &nbsp; &nbsp; Admin can also delete the doctors from the system. This let admin to have more control over the system.
 
 ![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
